@@ -31,6 +31,7 @@
           <li>Username: <strong><?php echo $clientName ?></strong></li>
           <li>Password: <strong>password</strong></li>
         </ul>
+        <p><span class="alert">Super important:</span> Change password as soon as you log in.</p>
       </main>
     </section>
 
@@ -39,7 +40,7 @@
         <h2>Add Post</h2>
       </header>
       <main>
-        <p><span class="alert">Sentance here, something you may need to say before or after a list. Say before or after a list.</span></p>
+        <p>Sentance here, something you may need to say before or after a list. Say before or after a list.</p>
         <ul>
           <li>Login, click '<strong>Posts</strong>' in the left menu.</li>
           <li>Click '<strong>Add New</strong>' at the top.</li>
@@ -53,7 +54,7 @@
         <h2>Edit Post</h2>
       </header>
       <main>
-        <p><span class="alert">Sentance here</span>, something you may need to say before or after a list. Say before or after a list.</p>
+        <p>Sentance here, something you may need to say before or after a list. Say before or after a list.</p>
         <ul>
           <li>Login, click '<strong>Posts</strong>' in the left menu.</li>
           <li>Click '<strong>Add New</strong>' at the top.</li>
