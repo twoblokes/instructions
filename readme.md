@@ -1,6 +1,6 @@
 # Instructions for instructions
 
-Setup:
+### Setup:
 
 1. Clone into clean directory
 ```
@@ -12,7 +12,7 @@ git clone git@github.com:twoblokes/instructions.git
 4. Open .htpasswd and rename username to client name and password using - [http://davidwalsh.name/web-development-tools](http://davidwalsh.name/web-development-tools).
 
 
-To edit:
+### To edit:
 
 1. Open index.php
 2. Edit client name
@@ -20,7 +20,7 @@ To edit:
 4. Edit sections as you need.
 
 
-a006_test can be found here - [http://instructions.twoblok.es/a000_test](http://instructions.twoblok.es/a000_test)
+### a006_test can be found here - [http://instructions.twoblok.es/a000_test](http://instructions.twoblok.es/a000_test)
 
 U: username
 
