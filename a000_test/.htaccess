@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /home5/oreardon/public_html/twoblokes/instructions/a000_test/.htpasswd  
+require valid-user
